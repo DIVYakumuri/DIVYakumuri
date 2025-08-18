@@ -8,7 +8,7 @@
 
 ### 🚀 What I'm Learning:
 - C Programming (currently using "Let Us C")
-- Python Basics (for AI & ML in future)
+- Python Basics 
 - Git & GitHub
 
 ### 📌 Goals:
