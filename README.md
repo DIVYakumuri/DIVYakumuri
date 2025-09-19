@@ -19,7 +19,7 @@
   
 ### 📫 Reach Me:
 - Gmail: diviyou7@gmail.com
-- LinkedIn: [Add your link here]!--
+- LinkedIn: [https://www.linkedin.com/in/divya-kumari-chaudhary-360569370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]!--
 **DIVYakumuri/DIVYakumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
