@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 What I'm Learning:
-- C Programming 
+- C++
 - Python Basics 
 - Git & GitHub
 
