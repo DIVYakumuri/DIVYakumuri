@@ -11,6 +11,11 @@
 - Python Basics 
 - Hackerrank Problem solving
 
+### 📌 Skills:
+- C programming
+- Oops with c++
+- Basic DBMS,PLSQL
+
 ### 📌 Goals:
 - Contribute to open-source
 - Build personal projects (e-commerce website, web tools, etc.)
