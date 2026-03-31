@@ -2,18 +2,18 @@
 
 <# 👋 Hi, I'm Divya Kumari!
 
-🎓 BSc IT Student | 🧠 Learning C & AI | 💻 Future Tech Enthusiast
+🎓 BSc IT Student | 🧠 Learning Web Development & python | 💻 Future Tech Enthusiast
 
 ---
 
 ### 🚀 What I'm Learning:
-- C++
+- Web Development
 - Python Basics 
-- Git & GitHub
+- Hackerrank Problem solving
 
 ### 📌 Goals:
 - Contribute to open-source
-- Build personal projects (mini-games, web tools, etc.)
+- Build personal projects (e-commerce website, web tools, etc.)
 - Learn Data Structures & Algorithms (DSA)
 - Build a portfolio for internships
   
